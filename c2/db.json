@@ -1,0 +1,34 @@
+{
+  "houses": [
+    {
+      "nam": "ajit",
+      "owner": "ajitt",
+      "address": "ara",
+      "areacode": "802301",
+      "rent": "15000",
+      "bachelor": "on",
+      "": "N/A",
+      "id": 1
+    },
+    {
+      "nam": "aj",
+      "owner": "ajit",
+      "address": "araa",
+      "areacode": "8023011",
+      "rent": "12000",
+      "married": "on",
+      "": "na",
+      "id": 2
+    },
+    {
+      "nam": "aaaa",
+      "owner": "bbbb",
+      "address": "cccc",
+      "areacode": "123456",
+      "rent": "2222",
+      "bachelor": "on",
+      "": "na",
+      "id": 3
+    }
+  ]
+}
